@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="mpc_tracer" name="mpc_planner" type="mpc.py" output="screen">
+  </node>
+</launch>
